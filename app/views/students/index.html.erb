@@ -1,0 +1,9 @@
+<h1>Students</h1>
+
+<section>
+    <% @students.each do |student| %>
+  <div class="student-block">
+    <h3><%= student.name %>: </h3>
+  </div>
+    <% end %>
+</section>

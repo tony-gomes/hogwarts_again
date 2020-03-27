@@ -206,6 +206,8 @@
         "lines": [
           1,
           null,
+          null,
+          1,
           null
         ]
       },
@@ -229,54 +231,23 @@
           null
         ]
       },
-      "/Users/mothership/Desktop/TURING/mods/2mod/challenges/hogwarts_again/spec/models/professor_student_spec.rb": {
+      "/Users/mothership/Desktop/TURING/mods/2mod/challenges/hogwarts_again/app/controllers/professors_controller.rb": {
         "lines": [
           1,
-          null,
           1,
-          null,
-          1,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/mothership/Desktop/TURING/mods/2mod/challenges/hogwarts_again/app/models/professor_student.rb": {
-        "lines": [
           1,
           null,
           null
         ]
       },
-      "/Users/mothership/Desktop/TURING/mods/2mod/challenges/hogwarts_again/spec/models/student_spec.rb": {
+      "/Users/mothership/Desktop/TURING/mods/2mod/challenges/hogwarts_again/app/controllers/application_controller.rb": {
         "lines": [
           1,
-          null,
           1,
-          null,
-          1,
-          2,
-          2,
-          2,
-          null,
-          null,
-          1,
-          2,
-          2,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/mothership/Desktop/TURING/mods/2mod/challenges/hogwarts_again/app/models/student.rb": {
-        "lines": [
-          1,
-          null,
           null
         ]
       }
     },
-    "timestamp": 1585314398
+    "timestamp": 1585322805
   }
 }

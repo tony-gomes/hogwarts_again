@@ -3,6 +3,8 @@ class CreateProfessorStudents < ActiveRecord::Migration[5.1]
     create_table :professor_students do |t|
       t.references :professor, foreign_key: true
       t.references :student, foreign_key: true
+
+      t.timestamp
     end
   end
 end

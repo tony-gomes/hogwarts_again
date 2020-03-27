@@ -4,6 +4,8 @@ class CreateStudents < ActiveRecord::Migration[5.1]
       t.string :name
       t.integer :age
       t.string :house
+
+      t.timestamp
     end
   end
 end
